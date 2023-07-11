@@ -708,6 +708,9 @@ h6 { font-size: 16px; }
 }
 .arlo_tm_button a:hover:before{width: 150%;}
 
+.text-justify{
+	text-align: justify;
+}
 /*---------------------------------------------------*/
 /*	06) ARLO SERVICES
 /*---------------------------------------------------*/
